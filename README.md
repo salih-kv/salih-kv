@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 - 👀 I’m drawn to the challenge and creativity of coding
-- 🌱 I’m currently learning Javascript & NodeJS
+- 🌱 I’m currently learning React & NodeJS
 #
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salih-kv&theme=github-dark&mode=weekly)](https://git.io/streak-stats)
 #
