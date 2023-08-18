@@ -3,16 +3,11 @@ salih-kv/salih-kv is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm MOHAMMED SALIH KV</h1>
-<h3 align="center">A MERN Stack Developer from India 🇮🇳</h3>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100">
-  
-</div>
+<h1>Hi 👋, I'm MOHAMMED SALIH KV</h1>
+<h3>A MERN Stack Developer From India 🇮🇳</h3>
 
 #
-<div align='center'>
+<div>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salih-kv&theme=github-dark&mode=weekly)](https://git.io/streak-stats)
 </div>
