@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm MOHAMMED SALIH KV</h1>
-<h3 align="center">A frontend developer from India 🇮🇳</h3>
+<h3 align="center">A MERN Stack Developer from India 🇮🇳</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100">
