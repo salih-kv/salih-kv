@@ -3,10 +3,17 @@ salih-kv/salih-kv is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1>Hi 👋, I'm MOHAMMED SALIH KV</h1>
+<h1>Hi 👋, I'm Salih!</h1>
 A MERN Stack Developer From India 🇮🇳
 
 ###
+
+### About Me:
+<p align="left">
+🔥 Building blazing-fast APIs <br>
+💡 Always eager to learn new frameworks
+</p>
+
 
 <div>
   
