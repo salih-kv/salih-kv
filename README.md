@@ -4,15 +4,16 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1>Hi 👋, I'm MOHAMMED SALIH KV</h1>
-<h3>A MERN Stack Developer From India 🇮🇳</h3>
+A MERN Stack Developer From India 🇮🇳
 
-#
+###
+
 <div>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salih-kv&theme=github-dark&mode=weekly)](https://git.io/streak-stats)
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+### 🔧 Technologies & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs"  />
   <img width="12" />
@@ -56,7 +57,14 @@ You can click the Preview link to take a look at your changes.
 </div>
 --->
 
-###
+<!---
+## 📫 Let's Connect
+
+If you'd like to collaborate on a project, have a question, or just want to chat, feel free to reach out to me:
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- Email: your.email@example.com
+--->
 
 
 
