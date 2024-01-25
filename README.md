@@ -22,11 +22,11 @@ A MERN Stack Developer From India 🇮🇳
 
 ### 🔧 Technologies & Tools
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb"  />
   <img width="12" />
@@ -53,6 +53,10 @@ A MERN Stack Developer From India 🇮🇳
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40" alt="redux"  />
+  <img width="12" />
+  <img src="https://vitest.dev/logo-shadow.svg" height="40" alt="vitest"  />
+  <img width="12" />
+  <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" height="40" alt="next.js"  />
 </div>
 
 <!---
