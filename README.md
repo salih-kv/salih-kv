@@ -20,6 +20,10 @@ A MERN Stack Developer From India 🇮🇳
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salih-kv&theme=github-dark&mode=weekly)](https://git.io/streak-stats)
 </div>
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salih-kv&show_icons=true&locale=en&layout=compact&theme=transparent&border_color=38d353" alt="languages" />
+</div>
+
 ### 🔧 Technologies & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"  />
